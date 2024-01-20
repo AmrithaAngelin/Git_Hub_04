@@ -1,3 +1,4 @@
 sdlc
 stlc
 testing tech
+sql
